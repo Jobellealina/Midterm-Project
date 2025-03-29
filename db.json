@@ -1,0 +1,13 @@
+{
+  "students": [
+    {
+      "id": "24BSIT-0682",
+      "name": "Jobelle Alina",
+      "birthdate": "2004-07-13",
+      "place": "Taguig City",
+      "phone": "091234567890",
+      "nationality": "Filipino",
+      "religion": "Roman Catholic"
+    }
+  ]
+}
