@@ -3,11 +3,20 @@
     {
       "id": "24BSIT-0682",
       "name": "Jobelle Alina",
-      "birthdate": "2004-07-13",
+      "birthdate": "2001-11-11",
       "place": "Taguig City",
-      "phone": "09876543218",
+      "phone": "09388968297",
       "nationality": "Filipino",
       "religion": "Roman Catholic"
+    },
+    {
+      "id": "24BSIT-0681",
+      "name": "Karen Amido",
+      "birthdate": "1990-03-28",
+      "place": "Negros Oriental",
+      "phone": "09123456789",
+      "nationality": "Filipino",
+      "religion": "Catholic"
     }
   ]
 }

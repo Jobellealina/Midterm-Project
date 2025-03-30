@@ -14,13 +14,13 @@ body {
   background-color: #FFFFFF;
   padding: 25px;
   border-radius: 12px;
-  box-shadow: 0 0 5px rgb(111, 9, 111);
-  border-top: 4px solid rgb(111, 9, 111);
+  box-shadow: 0 0 5px rgb(3, 97, 100);
+  border-top: 4px solid rgb(3, 97, 100);
   text-align:center;
 }
 
 .container h2 {
-  color: rgb(111, 9, 111);
+  color: rgb(3, 97, 100);
 }
 
 .container1 {
@@ -30,8 +30,8 @@ body {
   background-color: #FFFFFF;
   padding: 25px;
   border-radius: 12px;
-  box-shadow: 0 0 5px rgb(111, 9, 111);
-  border-top: 4px solid #674188;
+  box-shadow: 0 0 5px rgb(3, 97, 100);
+  border-top: 4px solid rgb(3, 97, 100);
   text-align:left;
 }
 
@@ -39,7 +39,7 @@ body {
   text-align: center;
   text-transform: uppercase;
   font-family: monospace;
-  color:rgb(111, 9, 111);
+  color:rgb(3, 97, 100);
 }
 
 .table-container {
@@ -62,7 +62,7 @@ th, td {
 }
 
 th {
-  background-color: rgb(111, 9, 111);
+  background-color: rgb(3, 97, 100);
   color: white;
   font-weight: 600;
   text-transform: uppercase;
@@ -89,17 +89,17 @@ tr:nth-child(even) {
 }
 
 .btn-info {
-  background-color: rgb(16, 154, 240);
+  background-color: rgb(34, 86, 119);
   color: white;
 }
 
 .btn-success {
-  background-color: rgb(37, 239, 44);
+  background-color: rgb(34, 86, 119);
   color: white;
 }
 
 .btn-danger {
-  background-color: rgb(243, 59, 59);
+  background-color: rgb(34, 86, 119);
   color: white;
 }
 
@@ -128,7 +128,7 @@ tr:nth-child(even) {
 }
 
 .btn-add {
-  background-color: rgb(16, 154, 240); 
+  background-color: rgb(3, 97, 100); 
   color: white;
   padding: 10px 15px;
   border-radius: 5px;
@@ -142,7 +142,7 @@ tr:nth-child(even) {
 }
 
 .btn-add:hover {
-  background-color: rgb(12, 130, 210); 
+  background-color: rgb(4, 65, 68); 
   transform: translateY(-2px);
 }
 

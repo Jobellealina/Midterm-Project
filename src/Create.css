@@ -5,12 +5,12 @@
     padding: 25px;
     border-radius: 12px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
-    border-top: 4px solid rgb(111, 9, 111);
+    border-top: 4px solid rgb(3, 97, 100);
     text-align: center;
   }
   
   .create-student-container h2 {
-    color:  rgb(111, 9, 111);
+    color:  rgb(3, 97, 100);
     font-weight: 600;
     font-size: 24px;
     margin-bottom: 20px;
@@ -51,7 +51,7 @@
   }
   
   .btn-save {
-    background-color: rgb(111, 9, 111);
+    background-color: rgb(3, 97, 100);
     color: white;
     padding: 12px 20px;
     border-radius: 6px;
